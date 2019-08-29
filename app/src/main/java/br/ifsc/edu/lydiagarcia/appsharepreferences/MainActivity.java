@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
         if (preferences.contains("nota")){
             txtResultado.setText(preferences.getString("nota", "").toString());
         } else{
-            txtResultado.setText(getResources().getString(R.string.default_menssage));
+            txtResultado.setText(getResources().getString(R.string.default_message));
         }
 
     }

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppSharePreferences</string>
+    <string name="notasVazias">Esta nota está vazia</string>
+    <string name="default_message">Mensagem padrão</string>
 </resources>
